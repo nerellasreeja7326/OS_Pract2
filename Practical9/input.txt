@@ -1,0 +1,5 @@
+Operating Systems Practical 9
+Linux File I/O
+open read write lseek close
+fopen fread fwrite fclose
+File copying using C programming
